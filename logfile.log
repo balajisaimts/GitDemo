@@ -1,0 +1,8 @@
+2023-07-22 00:23:05,995 :INFO :test_editProfile :BalajiSai
+2023-07-22 00:23:05,995 :INFO :test_editProfile :google.com
+2023-07-22 00:23:23,747 :INFO :test_editProfile :BalajiSai
+2023-07-22 00:23:23,748 :INFO :test_editProfile :google.com
+2023-07-22 00:23:23,763 :INFO :pytestsDemo.test_logging :Information Statement
+2023-07-22 00:23:23,763 :WARNING :pytestsDemo.test_logging :Something is in warning mode
+2023-07-22 00:23:23,763 :ERROR :pytestsDemo.test_logging :A Major error has happened
+2023-07-22 00:23:23,764 :CRITICAL :pytestsDemo.test_logging :Critical Issue
