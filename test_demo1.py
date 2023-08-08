@@ -11,6 +11,8 @@ import pytest
 @pytest.mark.smoke
 def test_firstProgram(setup):
     print("Hello")
+    print("HelloA")
+    print("HelloB")
 
 
 @pytest.mark.xfail
