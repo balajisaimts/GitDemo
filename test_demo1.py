@@ -13,6 +13,9 @@ def test_firstProgram(setup):
     print("Hello")
     print("HelloA")
     print("HelloB")
+    print("HelloC")
+    print("HelloD")
+    print("HelloE")
 
 
 @pytest.mark.xfail
