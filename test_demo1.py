@@ -16,11 +16,15 @@ def test_firstProgram(setup):
     print("HelloC")
     print("HelloD")
     print("HelloE")
+    print("Hi")
 
 
 @pytest.mark.xfail
 def test_SecondGreetCreditCard():
     print("Good Morning")
+    print("Good MorningA")
+    print("Good MorningB")
+
 
 def test_crossBrowser(crossBrowser):
     print(crossBrowser[1])

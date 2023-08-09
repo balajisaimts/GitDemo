@@ -18,6 +18,7 @@ import pytest
 def test_firstProgram():
     msg = "Hello"
     msg = "HelloB"
+    msg = "HiA"
     assert msg == "Hi", "Test failed because the strings do not match"
 
 
