@@ -24,6 +24,7 @@ def test_SecondGreetCreditCard():
     print("Good Morning")
     print("Good MorningA")
     print("Good MorningB")
+    print("Good MorningC")
 
 
 def test_crossBrowser(crossBrowser):
